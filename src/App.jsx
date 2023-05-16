@@ -5,7 +5,7 @@ import Footer from './components/Footer/Footer';
 import './App.css';
 
 function App() {
-  const [moreUsers, setMoreUsers] = useState(1);
+  const [moreUsers, setMoreUsers] = useState(10);
 
   return (
     <>

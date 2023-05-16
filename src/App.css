@@ -1,7 +1,24 @@
 .navbar {
-  background-color:  #bce3ff;
+  background-color: #bdb2db;
 }
 
-.active {
-  background-color:  #8bccfa;
+.footer {
+  background-color: #97a2ae;
+}
+
+.container {
+  padding: 5% 20%;
+}
+
+.none {
+  display: none;
+}
+
+.card-body {
+  padding: 2%;
+  font-size: 0.9rem;
+}
+
+.cardInfo {
+  font-weight: 320;
 }
